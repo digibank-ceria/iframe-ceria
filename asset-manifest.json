@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/iframe-ceria/static/js/main.1477944a.chunk.js",
-    "main.js.map": "/iframe-ceria/static/js/main.1477944a.chunk.js.map",
-    "runtime-main.js": "/iframe-ceria/static/js/runtime-main.55a85c4e.js",
-    "runtime-main.js.map": "/iframe-ceria/static/js/runtime-main.55a85c4e.js.map",
-    "static/js/2.fb900f82.chunk.js": "/iframe-ceria/static/js/2.fb900f82.chunk.js",
-    "static/js/2.fb900f82.chunk.js.map": "/iframe-ceria/static/js/2.fb900f82.chunk.js.map",
-    "index.html": "/iframe-ceria/index.html",
-    "precache-manifest.a37faa7a98e6f6c4878554438696148a.js": "/iframe-ceria/precache-manifest.a37faa7a98e6f6c4878554438696148a.js",
-    "service-worker.js": "/iframe-ceria/service-worker.js",
-    "static/js/2.fb900f82.chunk.js.LICENSE.txt": "/iframe-ceria/static/js/2.fb900f82.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.1477944a.chunk.js",
+    "main.js.map": "/static/js/main.1477944a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e5966c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e5966c0.js.map",
+    "static/js/2.fb900f82.chunk.js": "/static/js/2.fb900f82.chunk.js",
+    "static/js/2.fb900f82.chunk.js.map": "/static/js/2.fb900f82.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.393b990a1b87ee7da879fbc9a69eecc2.js": "/precache-manifest.393b990a1b87ee7da879fbc9a69eecc2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.fb900f82.chunk.js.LICENSE.txt": "/static/js/2.fb900f82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.55a85c4e.js",
+    "static/js/runtime-main.5e5966c0.js",
     "static/js/2.fb900f82.chunk.js",
     "static/js/main.1477944a.chunk.js"
   ]
