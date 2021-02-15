@@ -1,7 +1,7 @@
 {
   "name": "ceria-web-app",
   "version": "0.1.0",
-  "homepage": "https://ceria-web-app.service.dce.bri.co.id/",
+  "homepage": "http://digibank-ceria.github.io/iframe-ceria",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
